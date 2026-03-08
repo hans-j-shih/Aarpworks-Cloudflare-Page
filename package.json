@@ -1,0 +1,22 @@
+{
+  "name": "aarpworks--cloudflare-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hans-j-shih/Aarpworks-Cloudflare-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hans-j-shih/Aarpworks-Cloudflare-Page/issues"
+  },
+  "homepage": "https://github.com/hans-j-shih/Aarpworks-Cloudflare-Page#readme"
+}
